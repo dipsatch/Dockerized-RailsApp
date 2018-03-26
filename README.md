@@ -8,4 +8,4 @@ Containerization &amp; deployment of a Ruby on Rails web application, with MySQL
 * The application used Puma for the application server
 * The application used MySQL for the database
 
-### Refer DOCUMENTATION.pdf to know how to setup and run the dockerized app
+### Refer [DOCUMENTATION.pdf](DOCUMENTATION.pdf) to know how to setup and run the dockerized app
